@@ -6610,7 +6610,7 @@ repositories:
       url: https://gitlab.com/jlack/rdl.git
       version: master
     status: developed
-  realsense-ros:
+  realsense2_camera:
     doc:
       type: git
       url: https://github.com/IntelRealSense/realsense-ros.git
